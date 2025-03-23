@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text:wght@400..900&display=swap');
+@import "tailwindcss";
+
+*{
+    scroll-behavior: smooth;
+}
+
+@theme{
+    --font-Golos: "Golos Text", sans-serif;
+}
