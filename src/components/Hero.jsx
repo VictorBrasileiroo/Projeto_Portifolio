@@ -49,7 +49,7 @@ export default function Hero() {
             <TiArrowForwardOutline className='w-6 h-6 text-white'/>
           </Button>
           <a className='p-5 bg-blue-950/40 rounded-full hover:-translate-y-2 hover:bg-blue-900 transition-all' href="https://github.com/VictorBrasileiroo"><FaGithub className='text-white w-6 h-6' /></a>
-          <a className='p-5 bg-blue-950/40 rounded-full hover:-translate-y-2 hover:bg-blue-900 transition-all' href='https://drive.google.com/file/d/1jIrZGvmJlVb6hdjjJUo4JdCx96xYQDa-/view'><TbFileCv className='text-white w-6 h-6' /></a>
+          <a className='p-5 bg-blue-950/40 rounded-full hover:-translate-y-2 hover:bg-blue-900 transition-all' href='https://drive.google.com/file/d/1e6K6davTz6AghJu4XyphEJTVd1QYplEg/view?usp=sharing'><TbFileCv className='text-white w-6 h-6' /></a>
         </div>
         </div>
       </div>
