@@ -9,14 +9,14 @@ const Projects = () => {
   technologies: ["ASP.NET Core",  ".NET", "C#", "Entity Framework"],
     liveLink: false,
     repoLink: "https://github.com/VictorBrasileiroo/StoreManager-API"
-  }
-  ,{
-    title: "Weather Watch",
-    description: "Esta aplicação web permite a verificação das condições climáticas atuais. O projeto é um estudo focado em diversos conceitos e tecnologias, incluindo APIs, HTTP, requisições e promises.",
-    image: "https://github.com/VictorBrasileiroo/WeatherWatch/raw/main/src/img/image.png",
-  technologies: ["HTML", "CSS", "Javascript", "Sass"],
-    liveLink: "https://victorbrasileiroo.github.io/WeatherWatch/",
-    repoLink: "https://github.com/VictorBrasileiroo/WeatherWatch"
+  },
+  {
+    title: "Blue Bank",
+    description: "BlueBank é um projeto de site para um banco digital fictício. O site oferece informações sobre os serviços do banco, como conta digital, cartões, transferências, e suporte ao cliente.",
+    image: "https://github.com/VictorBrasileiroo/BlueBank/blob/main/img/captura%20blue.png?raw=true",
+    technologies: ["HTML", "CSS", "Javascript", "Sass"],
+    liveLink: "https://victorbrasileiroo.github.io/BlueBank/",
+    repoLink: "https://github.com/VictorBrasileiroo/BlueBank"
   },
   {
     title: "Store Registration",
@@ -27,12 +27,12 @@ const Projects = () => {
     repoLink: "https://github.com/VictorBrasileiroo/ProjectRegistration"
   },
   {
-    title: "Blue Bank",
-    description: "BlueBank é um projeto de site para um banco digital fictício. O site oferece informações sobre os serviços do banco, como conta digital, cartões, transferências, e suporte ao cliente.",
-    image: "https://github.com/VictorBrasileiroo/BlueBank/blob/main/img/captura%20blue.png?raw=true",
-    technologies: ["HTML", "CSS", "Javascript", "Sass"],
-    liveLink: "https://victorbrasileiroo.github.io/BlueBank/",
-    repoLink: "https://github.com/VictorBrasileiroo/BlueBank"
+    title: "Weather Watch",
+    description: "Esta aplicação web permite a verificação das condições climáticas atuais. O projeto é um estudo focado em diversos conceitos e tecnologias, incluindo APIs, HTTP, requisições e promises.",
+    image: "https://github.com/VictorBrasileiroo/WeatherWatch/raw/main/src/img/image.png",
+  technologies: ["HTML", "CSS", "Javascript", "Sass"],
+    liveLink: "https://victorbrasileiroo.github.io/WeatherWatch/",
+    repoLink: "https://github.com/VictorBrasileiroo/WeatherWatch"
   },
   ];
 
