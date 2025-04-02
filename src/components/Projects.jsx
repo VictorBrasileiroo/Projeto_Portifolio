@@ -6,7 +6,7 @@ const Projects = () => {
     title: "API Store Manager",
     description: "API feita em ASP.NET Core para e-commerce com gestão completa de clientes, produtos e pedidos. Oferece operações CRUD em uma arquitetura moderna e escalável.",
     image: "https://github.com/VictorBrasileiroo/StoreManager-API/raw/main/banner.png",
-  technologies: ["ASP.NET Core 3.1", "C#", "Entity Framework"],
+  technologies: ["ASP.NET Core",  ".NET", "C#", "Entity Framework"],
     liveLink: false,
     repoLink: "https://github.com/VictorBrasileiroo/StoreManager-API"
   }
