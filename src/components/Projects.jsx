@@ -1,7 +1,16 @@
 import ProjectCard from '../components/ui/ProjectCard'
 
 const Projects = () => {
-  const projects = [{
+  const projects = [
+    {
+    title: "API Store Manager",
+    description: "API feita em ASP.NET Core para e-commerce com gestão completa de clientes, produtos e pedidos. Oferece operações CRUD, consultas filtradas e cálculo automático de totais em uma arquitetura moderna e escalável.",
+    image: "https://github.com/VictorBrasileiroo/StoreManager-API/blob/main/banner.svg",
+  technologies: ["ASP.NET Core 3.1", ".NET 8", "C#", "Entity Framework Core", "Swagger/OpenAPI"],
+    liveLink: false,
+    repoLink: "https://github.com/VictorBrasileiroo/StoreManager-API"
+  }
+  ,{
     title: "Weather Watch",
     description: "Esta aplicação web permite a verificação das condições climáticas atuais. O projeto é um estudo focado em diversos conceitos e tecnologias, incluindo APIs, HTTP, requisições e promises.",
     image: "https://github.com/VictorBrasileiroo/WeatherWatch/raw/main/src/img/image.png",
