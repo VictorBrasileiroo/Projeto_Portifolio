@@ -3,6 +3,14 @@ import ProjectCard from '../components/ui/ProjectCard'
 const Projects = () => {
   const projects = [
     {
+      title: "API Betterboxd",
+      description: "A API do BetterBoxd é um sistema voltado para avaliação de filmes, oferecendo funcionalidades para registrar usuários, avaliar filmes, e interagir com a comunidade.",
+      image: "https://raw.githubusercontent.com/VictorBrasileiroo/Projeto_API_Betterboxd/refs/heads/master/bannerBetterBoxd.svg",
+    technologies: ["ASP.NET Core", "C#", "EFC", "SQL Server" , "SOLID"],
+      liveLink: false,
+      repoLink: "https://github.com/VictorBrasileiroo/Projeto_API_Betterboxd"
+    },
+    {
     title: "API Store Manager",
     description: "API feita em ASP.NET Core para e-commerce com gestão completa de clientes, produtos e pedidos. Oferece operações CRUD em uma arquitetura moderna e escalável.",
     image: "https://github.com/VictorBrasileiroo/StoreManager-API/raw/main/banner.png",
