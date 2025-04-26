@@ -3,6 +3,14 @@ import ProjectCard from '../components/ui/ProjectCard'
 const Projects = () => {
   const projects = [
     {
+      title: "API CodeNet",
+      description: "A API do CodeNet é uma plataforma de comunicação para desenvolvedores, oferecendo funcionalidades de criação de grupos, envio de mensagens, controle de membros e usuários.",
+      image: "https://raw.githubusercontent.com/VictorBrasileiroo/Projeto_API_CodeNet/refs/heads/master/banner.svg",
+    technologies: ["ASP.NET Core", "JWT", "SQL Server" , "Validation"],
+      liveLink: false,
+      repoLink: "https://github.com/VictorBrasileiroo/Projeto_API_CodeNet"
+    },
+    {
       title: "API Betterboxd",
       description: "A API do BetterBoxd é um sistema voltado para avaliação de filmes, oferecendo funcionalidades para registrar usuários, avaliar filmes, e interagir com a comunidade.",
       image: "https://raw.githubusercontent.com/VictorBrasileiroo/Projeto_API_Betterboxd/refs/heads/master/bannerBetterBoxd.svg",
