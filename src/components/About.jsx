@@ -21,7 +21,7 @@ const About = () => {
             title: 'Currículo',
             description: 'Baixe meu CV completo',
             action: 'Baixar PDF',
-            href: 'https://drive.google.com/file/d/10s5tNRUjryxFfqOrnpBwXcY0_Lzo9XIc/view?usp=sharing'
+            href: 'https://drive.google.com/file/d/1V3zbdiQ_zKp0Rj9Hax05e2aTj59BPUAM/view?usp=sharing'
         },
         {
             icon: <Mail className="h-6 w-6 text-white" />,
