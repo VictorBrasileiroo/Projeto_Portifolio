@@ -3,6 +3,14 @@ import ProjectCard from '../components/ui/ProjectCard'
 const Projects = () => {
   const projects = [
     {
+      title: "UrlDux - Encurtador de URL",
+      description: "O UrlDux é um encurtador de URLs completo, desenvolvido para transformar links longos e complexos em URLs curtas, memoráveis e fáceis de compartilhar.",
+      image: "https://raw.githubusercontent.com/VictorBrasileiroo/EncurtadorURL/master/banner.png",
+    technologies: ["ASP.NET Core", "Base62", "Validação", "SQL Server"],
+      liveLink: false,
+      repoLink: "https://github.com/VictorBrasileiroo/Projeto_API_EncurtadorURL"
+    },
+    {
       title: "API CodeNet",
       description: "A API do CodeNet é uma plataforma de comunicação para desenvolvedores, oferecendo funcionalidades de criação de grupos, envio de mensagens, controle de membros e usuários.",
       image: "https://raw.githubusercontent.com/VictorBrasileiroo/Projeto_API_CodeNet/refs/heads/master/banner.svg",
