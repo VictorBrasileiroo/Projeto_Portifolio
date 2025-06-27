@@ -43,29 +43,13 @@ const Projects = () => {
     repoLink: "https://github.com/VictorBrasileiroo/StoreManager-API"
   },
   {
-    title: "Blue Bank",
-    description: "BlueBank é um projeto de site para um banco digital fictício. O site oferece informações sobre os serviços do banco, como conta digital, cartões, transferências, e suporte ao cliente.",
-    image: "https://github.com/VictorBrasileiroo/BlueBank/blob/main/img/captura%20blue.png?raw=true",
-    technologies: ["HTML", "CSS", "Javascript", "Sass"],
-    liveLink: "https://victorbrasileiroo.github.io/BlueBank/",
-    repoLink: "https://github.com/VictorBrasileiroo/BlueBank"
-  },
-  {
     title: "Store Registration",
     description: "StoreRegistration é um projeto React voltado para pequenas empresas, oferecendo uma solução prática para registrar, visualizar e editar informações de clientes.",
     image: "https://raw.githubusercontent.com/VictorBrasileiroo/ProjectRegistration/daccb93d216af0b4e5b5a5da88839c024af501c2/src/assets/img/Group%203.svg",
     technologies: ["React.js", "Node.js", "Express", "Tailwind", "Figma"],
     liveLink: "https://projectregistrationstore.netlify.app/",
     repoLink: "https://github.com/VictorBrasileiroo/ProjectRegistration"
-  },
-  {
-    title: "Weather Watch",
-    description: "Esta aplicação web permite a verificação das condições climáticas atuais. O projeto é um estudo focado em diversos conceitos e tecnologias, incluindo APIs, HTTP, requisições e promises.",
-    image: "https://github.com/VictorBrasileiroo/WeatherWatch/raw/main/src/img/image.png",
-  technologies: ["HTML", "CSS", "Javascript", "Sass"],
-    liveLink: "https://victorbrasileiroo.github.io/WeatherWatch/",
-    repoLink: "https://github.com/VictorBrasileiroo/WeatherWatch"
-  },
+  }
   ];
 
   return (
