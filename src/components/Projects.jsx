@@ -3,6 +3,14 @@ import ProjectCard from '../components/ui/ProjectCard'
 const Projects = () => {
   const projects = [
     {
+      title: "Analisador de Feedbacks",
+      description: "Projeto para análise automática de FeedBacks em avaliações de clientes usando Inteligência Artificial. Utiliza ASP.NET Core para backend e Python para modelagem.",
+      image: "https://raw.githubusercontent.com/VictorBrasileiroo/AnalisadorFeedBack/main/banner.png",
+    technologies: ["ASP.NET Core", "Python", "IA", "SQL Server"],
+      liveLink: false,
+      repoLink: "https://github.com/VictorBrasileiroo/Projeto_IA_AnalisadorFeedBack"
+    },
+    {
       title: "UrlDux - Encurtador de URL",
       description: "O UrlDux é um encurtador de URLs completo, desenvolvido para transformar links longos e complexos em URLs curtas, memoráveis e fáceis de compartilhar.",
       image: "https://raw.githubusercontent.com/VictorBrasileiroo/EncurtadorURL/master/banner.png",
