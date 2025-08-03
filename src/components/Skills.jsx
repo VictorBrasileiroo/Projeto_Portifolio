@@ -30,12 +30,12 @@ const Skills = () => {
     },
     {
       title: "Desenvolvimento Backend",
-      skills: ["C#", "ASP.NET Core", ".NET Core", "REST APIs", "Entity Framework Core", "Dependency Injection", "xUnit (Testes)", "JWT (Autenticação)", "Middleware"],
+      skills: ["C#", "ASP.NET Core", ".NET Core", "REST APIs", "Django", "Entity Framework Core", "Dependency Injection", "xUnit (Testes)", "JWT (Autenticação)", "Middleware"],
       colorClass: "text-blue-400"
     },
     {
       title: "Banco de Dados",
-      skills: ["SQL Server","MongoDB", "Oracle SQL", "Entity Framework Core (ORM)", "Migrations", "LINQ"],
+      skills: ["SQL Server","MongoDB", "PostgreSQL","Oracle SQL", "Entity Framework Core (ORM)", "Migrations", "LINQ"],
       colorClass: "text-yellow-400"
     },
     {
