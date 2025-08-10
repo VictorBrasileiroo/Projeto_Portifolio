@@ -3,10 +3,18 @@ import ProjectCard from '../components/ui/ProjectCard'
 const Projects = () => {
   const projects = [
     {
+      title: "Observatório de Permanência",
+      description: "O Observatório de Permanência é uma plataforma que utiliza Machine Learning, Django e um dashboard interativo para prever e monitorar o risco de evasão estudantil.",
+      image: "https://raw.githubusercontent.com/VictorBrasileiroo/Projeto_Observatorio_de_Permanencia/main/banner.png",
+    technologies: ["Python", "Django", "Docker", "PostgreSQL", "IA","Machine Learning", "Javascript"],
+      liveLink: false,
+      repoLink: "https://github.com/VictorBrasileiroo/Projeto_Observatorio_de_Permanencia"
+    },
+    {
       title: "Analisador de Feedbacks",
       description: "Projeto para análise automática de FeedBacks em avaliações de clientes usando Inteligência Artificial. Utiliza ASP.NET Core para backend e Python para modelagem.",
       image: "https://raw.githubusercontent.com/VictorBrasileiroo/AnalisadorFeedBack/main/banner.png",
-    technologies: ["ASP.NET Core", "Python", "IA", "SQL Server"],
+    technologies: ["ASP.NET Core", "Python", "IA", "SQL Server", "C#", "Machine Learning"],
       liveLink: false,
       repoLink: "https://github.com/VictorBrasileiroo/Projeto_IA_AnalisadorFeedBack"
     },
@@ -14,7 +22,7 @@ const Projects = () => {
       title: "UrlDux - Encurtador de URL",
       description: "O UrlDux é um encurtador de URLs completo, desenvolvido para transformar links longos e complexos em URLs curtas, memoráveis e fáceis de compartilhar.",
       image: "https://raw.githubusercontent.com/VictorBrasileiroo/EncurtadorURL/master/banner.png",
-    technologies: ["ASP.NET Core", "Base62", "Validação", "SQL Server"],
+    technologies: ["ASP.NET Core", "Base62", "Validação", "SQL Server", "SQL Server"],
       liveLink: false,
       repoLink: "https://github.com/VictorBrasileiroo/Projeto_API_EncurtadorURL"
     },
