@@ -26,8 +26,8 @@ export default function Hero() {
         {/* Name e Stack */}
         <div className='w-full'>
           <h1 className='font-Golos font-extrabold text-4xl text-white lg:text-6xl'>Victor Brasileiro</h1>
-          <h3 className='font-Golos text-gray-400 font-medium lg:text-xl'>Desenvolvedor .NET & Django</h3>
-          <p className='mt-3 font-Golos text-gray-300 font-medium max-w-[92%] 2xl:text-[18px]'>Desenvolvo backends robustos e escaláveis, criando APIs eficientes e sistemas seguros com <span className='font-extrabold'>.NET, C# e Django.</span> Minha missão é transformar dados em soluções ágeis e confiáveis para seu projeto.</p>
+          <h3 className='font-Golos text-gray-400 font-medium lg:text-xl'>Desenvolvedor Backend</h3>
+          <p className='mt-3 font-Golos text-gray-300 font-medium max-w-[92%] 2xl:text-[18px]'>Desenvolvo sistemas robustos e escaláveis, criando APIs eficientes e sistemas seguros com <span className='font-extrabold'>Python e Javascript.</span> Minha missão é transformar dados em soluções ágeis e confiáveis para seu projeto.</p>
         </div>
 
         {/* categories */}
@@ -38,7 +38,7 @@ export default function Hero() {
           </div>
           <div className='flex gap-2'>
             <Categories icon={GrLanguage}>Português e Inglês</Categories>
-            <Categories icon={SiDotnet}>ASP.NET Core</Categories>
+            <Categories icon={SiDotnet}>Desenvolvedor</Categories>
           </div>
         </div>
 
