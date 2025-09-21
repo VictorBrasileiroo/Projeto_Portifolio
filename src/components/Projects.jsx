@@ -27,6 +27,14 @@ const Projects = () => {
       repoLink: "https://github.com/VictorBrasileiroo/Projeto_API_EncurtadorURL"
     },
     {
+      title: "CheckIt",
+      description: "Uma aplicação web feita pra um processo seletivo de estágio, focada em gerenciar tarefas, com login de usuários, drag & drop e sync em tempo real usando Firebase.",
+      image: "https://raw.githubusercontent.com/VictorBrasileiroo/Projeto_CheckIt/refs/heads/main/newbanner.png",
+    technologies: ["React", "Typescript", "Firebase", "Vite"],
+      liveLink: "https://todolistsootz.web.app/",
+      repoLink: "https://github.com/VictorBrasileiroo/Projeto_CheckIt"
+    },
+    {
       title: "API CodeNet",
       description: "A API do CodeNet é uma plataforma de comunicação para desenvolvedores, oferecendo funcionalidades de criação de grupos, envio de mensagens, controle de membros e usuários.",
       image: "https://raw.githubusercontent.com/VictorBrasileiroo/Projeto_API_CodeNet/refs/heads/master/banner.svg",
