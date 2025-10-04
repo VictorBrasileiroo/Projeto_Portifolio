@@ -8,6 +8,7 @@ import { GrLanguage } from 'react-icons/gr';
 import { TbFileCv } from 'react-icons/tb';
 import Button from '../components/ui/Button'
 import { TiArrowForwardOutline } from 'react-icons/ti';
+import { DiJava } from 'react-icons/di';
 
 export default function Hero() {
   return (
@@ -38,7 +39,7 @@ export default function Hero() {
           </div>
           <div className='flex gap-2'>
             <Categories icon={GrLanguage}>Português e Inglês</Categories>
-            <Categories icon={SiDotnet}>Desenvolvedor</Categories>
+            <Categories icon={DiJava}>Desenvolvedor Java</Categories>
           </div>
         </div>
 

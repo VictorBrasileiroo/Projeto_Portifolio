@@ -3,6 +3,14 @@ import ProjectCard from '../components/ui/ProjectCard'
 const Projects = () => {
   const projects = [
     {
+      title: "DoseMeAI",
+      description: "DoseMeAI é um app inteligente que ajuda, principalmente idosos, a organizar e lembrar de tomar seus remédios de forma segura e prática.",
+      image: "https://raw.githubusercontent.com/VictorBrasileiroo/Projeto_DoseMeAI/refs/heads/master/banner.png",
+    technologies: ["Java", "Spring Boot", "JWT", "Docker", "PostgreSQL"],
+      liveLink: false,
+      repoLink: "https://github.com/VictorBrasileiroo/Projeto_DoseMeAI"
+    },
+    {
       title: "Observatório de Permanência",
       description: "O Observatório de Permanência é uma plataforma que utiliza Machine Learning, Django e um dashboard interativo para prever e monitorar o risco de evasão estudantil.",
       image: "https://raw.githubusercontent.com/VictorBrasileiroo/Projeto_Observatorio_de_Permanencia/main/banner.png",
