@@ -30,27 +30,27 @@ const Skills = () => {
     },
     {
       title: "Desenvolvimento Backend",
-      skills: ["C#", "ASP.NET Core", ".NET Core", "REST APIs", "Django", "Entity Framework Core", "Dependency Injection", "xUnit (Testes)", "JWT (Autenticação)", "Middleware"],
+      skills: ["Java", "Spring Boot", "C#", "ASP.NET Core", "REST APIs", "Python","FastAPI", "Testes", "JWT"],
       colorClass: "text-blue-400"
     },
     {
       title: "Banco de Dados",
-      skills: ["SQL Server","MongoDB", "PostgreSQL","Oracle SQL", "Entity Framework Core (ORM)", "Migrations", "LINQ"],
+    skills: ["SQL Server","MongoDB", "PostgreSQL","Oracle SQL", "Entity Framework Core", "JPA/Hibernate"],
       colorClass: "text-yellow-400"
     },
     {
       title: "DevOps & Ferramentas",
-      skills: ["Git/GitHub", "Docker", "AWS", "CI/CD", "Swagger (OpenAPI)", "Visual Studio 2022", "Vite"],
+      skills: ["Git/GitHub", "Docker", "AWS", "CI/CD", "Swagger (OpenAPI)", "Vite"],
       colorClass: "text-purple-400"
     },
     {
-      title: "Design & UI/UX",
-      skills: ["Figma", "Responsive Design", "UI Design Principles", "Canva"],
+      title: "Ciência de Dados & IA",
+      skills: ["Python", "R", "Machine Learning", "Deep Learning", "Pandas", "NumPy", "Matplotlib", "Seaborn"],
       colorClass: "text-pink-400"
     },
     {
       title: "Metodologias & Outros",
-      skills: ["Scrum", "Clean Code", "Clean Architecture","Repository Pattern ", "Microservices"],
+      skills: ["Scrum", "Clean Code", "Clean Architecture","Repository Pattern ", "Microservices", "Hexagonal Architecture", "Gestão de Projetos", "TDD"],
       colorClass: "text-orange-400"
     }
   ];
